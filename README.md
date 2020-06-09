@@ -4,4 +4,6 @@
   
 [Story by Ravindranath Tagore](ravindranath-tagore-story)  
   
-
+[Sample of My Patterns log](my-patterns-log/01-June-8th-example)  
+  
+  
