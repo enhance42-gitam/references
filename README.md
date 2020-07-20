@@ -8,3 +8,4 @@
   
 [Sample of My Patterns log](my-patterns-log/01-June-8th-example)  
   
+[Git and GitHub cheetsheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)  
